@@ -1,4 +1,4 @@
-https://mboqir18786.github.io/AmazonWebPage/
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
