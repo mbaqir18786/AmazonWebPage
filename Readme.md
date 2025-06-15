@@ -1,21 +1,33 @@
-This is the link https://mbaqir18786.github.io/AmazonWebPage/
-## ✨ 2. **Use Markdown Styling Creatively**
+----------- https://mbaqir18786.github.io/AmazonWebPage/ --------------
 
-| Feature | Syntax Example |
-|--------|----------------|
-| **Bold Text** | `**bold**` |
-| _Italic_ | `_italic_` |
-| `Code` | `` `code` `` |
-| Block Code | Triple backticks |
-| Blockquote | `> This is a quote` |
-| Table | `| Col1 | Col2 |` |
+# 🛍️ Advanced Amazon WebPage.
+
+A fully responsive **Advanced Amazon WebPage** made using only **HTML & CSS** — no JavaScript, no frameworks. It features a sleek layout, product cards, and a contact form for user interaction.
+
+
+
+## ✨ Features
+
+- 🖥️ Responsive design
+- 🔥 "Best Seller" labels
+- 🎧 Clean product cards with pricing and CTA buttons
+- 💬 Contact form with elegant UI
+- 🎨 CSS-only styling with modern layout
 
 ---
 
-## 🎨 3. **Add Badges**
-Use badges from [https://shields.io](https://shields.io):
+## 🚀 Tech Stack
 
-```markdown
-![GitHub stars](https://img.shields.io/github/stars/username/repo)
-![GitHub forks](https://img.shields.io/github/forks/username/repo)
-![GitHub issues](https://img.shields.io/github/issues/username/repo)
+- HTML5
+- CSS3 (Flexbox, Grid, Animations)
+
+---
+
+## 📁 Folder Structure
+
+```bash
+📦 Amazon-Clone-HTML-CSS
+ ┣ 📜 index.html
+ ┣ 📁 /images
+ ┣ 📜 style.css
+
